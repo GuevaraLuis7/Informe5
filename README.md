@@ -65,6 +65,10 @@ Tabla I. Materiales y Equipo
 
 *Procedimiento*
 
+<img src="Imagenes/circuito1.jpg">
+
+Figura 1.- Circuito para comprobar el Teorema de Thévenin
+
 ### Resultados
 
 *Porcentaje de error relativo entre los valores teóricos y los experimentales*
