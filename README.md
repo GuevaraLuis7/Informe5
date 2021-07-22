@@ -1,2 +1,2 @@
-# Informe5
-PRÁCTICA No. 5 Teorema de Thévenin
+# PRÁCTICA No. 5 Teorema de Thévenin
+
