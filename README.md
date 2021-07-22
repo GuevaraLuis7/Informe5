@@ -46,18 +46,18 @@ A través de la aplicación del teorema de Thevenin, se logra que un circuito co
 *Material y equipo requerido*
 
 *Pasos a seguir*
+
 1. Iniciar el Tinkercad y seleccionar los materiales a utilizar.
 
 2. Preparar los materiales en el simulador: resistencia con cada valor y las fuentes de energía.
 
 3. Elaborar un circuito con las resistencias con la forma indicada en la guía.
 
-4.Medir cada uno de los voltajes, corrientes de la Resistencia 5 y anotar los resultados.
+4. Medir cada uno de los voltajes, corrientes de la Resistencia 5 y anotar los resultados.
 
-5.Analizar el circuito por el teorema de Thévenin para obtener los resultados analíticos de cada voltaje y de cada corriente.
+5. Analizar el circuito por el teorema de Thévenin para obtener los resultados analíticos de cada voltaje y de cada corriente.
 
-6.Completar las tablas respectivas con cada uno de los resultados obtenidos.
-
+6. Completar las tablas respectivas con cada uno de los resultados obtenidos.
 
 *Procedimiento*
 
