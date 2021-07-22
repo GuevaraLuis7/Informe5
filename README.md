@@ -45,6 +45,10 @@ A través de la aplicación del teorema de Thevenin, se logra que un circuito co
 
 *Material y equipo requerido*
 
+<img src="Imagenes/tabla1.jpg">
+
+Tabla I. Materiales y Equipo
+
 *Pasos a seguir*
 
 1. Iniciar el Tinkercad y seleccionar los materiales a utilizar.
