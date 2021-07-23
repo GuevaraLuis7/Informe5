@@ -120,6 +120,9 @@ Figura 1.- Circuito para comprobar el Teorema de Thévenin
 ### Anexos
 
 ### Bibliografía
-Dorf,  S.  (2006).  Circuitos eléctricos. Mexico: Alfaomega.}  
-Teorema  de  Thevenin  [online]  se puede  validar  en: https://es.wikipedia.org/wiki/Teorema_de_Th%C3%A9venin  
 
+Dorf,  S.  (2006).  Circuitos eléctricos. Mexico: Alfaomega.}  
+
+Teorema  de  Thevenin (2021)  Obtenido de: https://es.wikipedia.org/wiki/Teorema_de_Th%C3%A9venin  
+
+TUVERAS. (2011). TUVERAS.com. Obtenido de TUVERAS.com: http://www.tuveras.com/electrotecnia/teoremas/thevenin.htm
