@@ -107,11 +107,15 @@ Figura 1.- Circuito para comprobar el Teorema de Thévenin
 
 *Análisis de los resultados*
 
+- El teorema de Thevenin permitio evaluar los datos, con la ayuda de las distintas leyes y metodos aprendidos para calcular la corriente y voltaje que circula.
+
 - Se observo que tanto los resultados analizados como los calculados son iguales con un mínimo margen de error.
 
 ### Video
 
 ### Conclusiones
+
+- El teorema de Thevenin es muy util por que  nos  permite  reducir  un  circuito complejo, a uno con una configuracion mas sencilla y con ello analizar los datos pedidos.
 
 ### Anexos
 
