@@ -103,6 +103,8 @@ Figura 1.- Circuito para comprobar el Teorema de Thévenin
 
 *Porcentaje de error relativo entre los valores teóricos y los experimentales*
 
+<img src="Imagenes/error.jpg">
+
 *Análisis de los resultados*
 
 ### Video
