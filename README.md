@@ -17,13 +17,13 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 *Objetivo General*
 
-- Comprender  el Teorema de Superposición, para determinar los voltajes y las corrientes presentes en un circuito eléctrico.
+- Comprender  el Teorema de Thévenin, para determinar los voltajes y las corrientes presentes en un circuito eléctrico.
 
 *Objetivos específicos*
 
-- Comprobar la efectividad del uso del teorema de superposición para el análisis de circuitos.
+- Comprobar la efectividad del uso del teorema de Thévenin para el análisis de circuitos.
 
-- Realizar comparaciones entre los datos teóricos usando el teorema de superposición y los datos prácticos adquiridos en el desarrollo de la práctica.
+- Realizar comparaciones entre los datos teóricos usando el teorema de Thévenin y los datos prácticos adquiridos en el desarrollo de la práctica.
 
 - Entender las conexiones y forma de uso del protoboard, del multímetro y de los   demás materiales de laboratorio para hacer un uso correcto de ellos, ya que cada uno tiene una forma específica de uso.
 
