@@ -113,6 +113,8 @@ Figura 1.- Circuito para comprobar el Teorema de Thévenin
 
 ### Video
 
+https://youtu.be/iirrVU97JGI
+
 ### Conclusiones
 
 - El teorema de Thévenin es muy util por que  nos  permite  reducir  un  circuito complejo, a uno con una configuracion mas sencilla y con ello analizar los datos pedidos.
