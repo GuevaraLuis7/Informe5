@@ -75,6 +75,14 @@ Figura 1.- Circuito para comprobar el Teorema de Thévenin
 
 <img src="Imagenes/circuitor.jpeg">
 
+<img src="Imagenes/circuit.jpeg">
+
+<img src="Imagenes/circuit2.jpeg">
+
+<img src="Imagenes/circuit3.jpeg">
+
+<img src="Imagenes/circuit4.jpeg">
+
 ### Resultados
 
 <img src="Imagenes/tablaA.jpeg">
