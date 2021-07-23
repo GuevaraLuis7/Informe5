@@ -125,13 +125,23 @@ Figura 1.- Circuito para comprobar el Teorema de Thévenin
 
 <img src="Imagenes/anexo1.jpeg">
 
+*Anexo 1.- Circuito en Tinkercad.*
+
 <img src="Imagenes/anexo2.jpeg">
+
+*Anexo 2.- Circuito en Tinkercad.*
 
 <img src="Imagenes/anexo3.jpeg">
 
+*Anexo 3.- Circuito en Tinkercad.*
+
 <img src="Imagenes/anexo4.jpeg">
 
+*Anexo 4.- Circuito en Tinkercad.*
+
 <img src="Imagenes/anexo5.jpeg">
+
+*Anexo 5.- Circuito en Tinkercad.*
 
 ### Bibliografía
 
