@@ -107,6 +107,8 @@ Figura 1.- Circuito para comprobar el Teorema de Thévenin
 
 *Análisis de los resultados*
 
+- Se observo que tanto los resultados analizados como los calculados son iguales con un mínimo margen de error.
+
 ### Video
 
 ### Conclusiones
