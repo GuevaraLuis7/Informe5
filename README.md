@@ -122,6 +122,4 @@ Figura 1.- Circuito para comprobar el Teorema de Thévenin
 ### Bibliografía
 Dorf,  S.  (2006).  Circuitos eléctricos. Mexico: Alfaomega.}  
 Teorema  de  Thevenin  [online]  se puede  validar  en: https://es.wikipedia.org/wiki/Teorema_de_Th%C3%A9venin  
-Teorema  de  Norton  [online]  se puede  validar  en:
-https://es.wikipedia.org/wiki/Teorema_de_Norton
 
