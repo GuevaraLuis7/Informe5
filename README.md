@@ -143,6 +143,10 @@ Figura 1.- Circuito para comprobar el Teorema de Thévenin
 
 *Anexo 5.- Circuito en Tinkercad.*
 
+<img src="Imagenes/anexo6.jpeg">
+
+*Anexo 6.- Circuito en Tinkercad.*
+
 ### Bibliografía
 
 Dorf,  S.  (2006).  Circuitos eléctricos. Mexico: Alfaomega.}  
